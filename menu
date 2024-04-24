@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Restaurant Menu</title>
+    <link rel="stylesheet" href="css/styles.css"> <!-- Link to the CSS file -->
+</head>
+<body>
+    <h1>Restaurant Menu</h1> <!-- Page heading -->
+
+    <!-- Section 1: Chicken -->
+    <div class="section">
+        <div class="section-title">Chicken</div> <!-- Section title at the top-right corner -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae...</p> <!-- Section content -->
+    </div>
+
+    <!-- Section 2: Beef -->
+    <div class="section">
+        <div class="section-title">Beef</div> <!-- Section title at the top-right corner -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...</p> <!-- Section content -->
+    </div>
+
+    <!-- Section 3: Sushi -->
+    <div class="section">
+        <div class="section-title">Sushi</div> <!-- Section title at the top-right corner -->
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi...</p> <!-- Section content -->
+    </div>
+
+</body>
+</html>
